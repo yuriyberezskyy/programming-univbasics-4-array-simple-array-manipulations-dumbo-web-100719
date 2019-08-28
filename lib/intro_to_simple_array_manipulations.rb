@@ -1,5 +1,4 @@
 def using_push(array,string)
-  array = push.string
-  updated_array = array
+  updated_array = array.push(string)
 end
   
