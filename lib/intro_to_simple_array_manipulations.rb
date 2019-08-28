@@ -1,5 +1,5 @@
-def using_push(Array,String)
-  Array = push.String
-  Array
+def using_push(arr,str)
+  arr = push.str
+  arr
 end
   
